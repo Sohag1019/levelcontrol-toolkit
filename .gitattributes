@@ -1,0 +1,12 @@
+# Do not edit manually  
+*.json linguist-detectable=false
+public/**/*.html linguist-vendored
+*.woff binary
+*.bat text eol=crlf
+
+*.yml linguist-detectable=false
+
+src/**/*.tsx linguist-detectable
+
+*.htm linguist-vendored
+# eof a83371b6
